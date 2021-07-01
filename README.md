@@ -1,2 +1,2 @@
 # Photo_Blog
-A basic Photoblog
+A basic mini Photoblog
