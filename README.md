@@ -1,2 +1,2 @@
 # Photo Blog
-◇ Website Link: https://photo--blog.herokuapp.com/
+◇ Check it out: https://photo--blog.herokuapp.com/
